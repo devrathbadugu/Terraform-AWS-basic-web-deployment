@@ -1,4 +1,4 @@
-# terraform-aws-basic-web-deployment
+# Terraform-AWS-basic-web-deployment
 ## AWS Web Infrastructure with Terraform
 **This project deploys a basic web infrastructure on AWS using Terraform. It includes a VPC with two public subnets, an Application Load Balancer (ALB), and two EC2 instances configured to serve as web servers. An S3 bucket is also created for general storage.**
 ### Project Structure
